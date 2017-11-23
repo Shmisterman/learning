@@ -88,4 +88,3 @@ alert(deck.cards[0].suit.value);
 alert(deck.cards[0].rank.name);
 alert(deck.cards[0].rank.value);
 alert("Hello");
-alert("Hello");
